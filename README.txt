@@ -1,6 +1,9 @@
 ===========================================
 RL-Competition 2009 Training Distribution
 ===========================================
+Becky Tate and Jonathan Hardy
+CSE337
+
 
 http://2009.rl-competition.org/
 
